@@ -9,7 +9,7 @@ export default function Sidebar() {
       <div className="top__links">
         <div className="logo">
           <img
-            src="../logo.jpg"
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYsfb-dFwYVNIrusoFJ0WNZoauiogC6hj8Cf-V2aCQuPLEAUxApka8rvfKyxqqd4_QiX5NRjm7KM9BrRS3w8ykanwoeQmCmVVnc35OGDLjPrW6cyryrNk1Xkeu9zyRts2Sz_EZk8Z9jYutN0YzRRmeZ5Ag0akoWYZAho8L7N6ovDAbleuTCmwAE5Z9rTqF/s320/logo.jpg"
             alt="spotify"
           />
         </div>
@@ -34,7 +34,7 @@ export default function Sidebar() {
 }
 
 const Container = styled.div`
-  background-color: black;
+  background-color: #1f002f;
   color: #b3b3b3;
   display: flex;
   flex-direction: column;
